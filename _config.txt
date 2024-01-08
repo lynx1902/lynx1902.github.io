@@ -1,8 +1,8 @@
 ### Site Settings ###
-title               : JIASEN ZHENG
+title               : PUSHKAR DAVE
 description         : Hello
 baseurl             : ""                                        # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : jiasenzheng/jiasenzheng.github.io         # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : lynx1902/lynx1902.github.io         # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
@@ -22,17 +22,17 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Jiasen Zheng
+  name              : Pushkar Dave
   image             : https://raw.githubusercontent.com/JiasenZheng/portfolio_images/main/test.jpg
 # behance           : your_username
 # dribbble          : your_username
-  email             : jiasenzheng2020@northwestern.edu
+  email             : pushkardave.vnit@gmail.com
 # facebook          : your_username
-  github            : JiasenZheng
+  github            : lynx1902
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : jiasen-zheng-943994103/
+  linkedin          : pushkar-dave/
 # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username

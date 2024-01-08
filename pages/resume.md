@@ -15,4 +15,4 @@ weight: 4
   >
 </li>
 <br>
-<object data="{{ site.url }}{{ site.baseurl }}/assets/RESUME_JZ.pdf" width="1200" height="1200" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/assets/Pushkar-GradResume.pdf" width="1200" height="1200" type="application/pdf"></object>
