@@ -1,6 +1,6 @@
 ---
-name: 3D SLAM and Point Cloud Colourisation
-tools: [C++, ROS, 3D SLAM, Calibration, PCL]
+name: Vertical State Estimator
+tools: [C++, ROS, 3D Geometry, State Estimation]
 image: https://jiasenzheng.github.io/assets/closure1.gif
 description: Developed a calibration ROS package to compute the extrinsic parameters between a LiDar and an RGB-D camera.    Performed 3D SLAM using RTAB-Map on a Jackal UGV and aligned the color pixel to the point cloud.
 ---
