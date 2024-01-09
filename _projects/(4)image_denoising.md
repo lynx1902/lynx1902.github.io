@@ -1,7 +1,7 @@
 ---
 name: Image Denoising Autoencoder
 tools: [PyTorch, Neural Network, Image Cleansing]
-image: https://jiasenzheng.github.io/assets/denoising.png
+image: https://lynx1902.github.io/assets/denoising.png
 description: Built visual odometry with a stereo camera setup that estimates the position and motion of the vehicle.
 ---
 
