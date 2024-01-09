@@ -1,7 +1,7 @@
 ---
 name: Control of a Cart Pole System 
 tools: [Python, Mathematical Modeling, PID, LQR]
-image: https://jiasenzheng.github.io/assets/jack.gif
+image: https://jiasenzheng.github.io/assets/cartpole.gif
 description: Simulated a planer multi-body dynamics of a jack in the box with external forces and impacts.
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: Quadrotor Control and Trajectory Generation
 tools: [MATLAB, Mathematical Modeling]
-image: https://jiasenzheng.github.io/assets/marker.gif
+image: https://jiasenzheng.github.io/assets/quadcontrol.gif
 description: Assembled markers and caps through pick, place, press, and sort operations sequences. 
 ---
 

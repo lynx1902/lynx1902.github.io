@@ -1,7 +1,7 @@
 ---
 name: ESP32 WayFinder
 tools: [Arduino, Microcontroller, Navigation]
-image: https://jiasenzheng.github.io/assets/best.gif
+image: https://jiasenzheng.github.io/assets/wayfinder.gif
 description: Controlled a Youbot to pick and place a block with user-specified positions and then simulated it in Coppeliasim.
 ---
 

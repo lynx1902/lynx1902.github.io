@@ -1,7 +1,7 @@
 ---
 name: Tethered Aerial Vehicle 
 tools: [Python, Mathematical Modeling, Matplotlib]
-image: https://jiasenzheng.github.io/assets/closure1.gif
+image: https://jiasenzheng.github.io/assets/tautcontrol.gif
 description: Developed a calibration ROS package to compute the extrinsic parameters between a LiDar and an RGB-D camera.    Performed 3D SLAM using RTAB-Map on a Jackal UGV and aligned the color pixel to the point cloud.
 ---
 
