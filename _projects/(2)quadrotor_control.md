@@ -2,7 +2,7 @@
 name: Quadrotor Control and Trajectory Generation
 tools: [MATLAB, Mathematical Modeling]
 image: https://lynx1902.github.io/assets/quadcontrol.gif
-description: Assembled markers and caps through pick, place, press, and sort operations sequences. 
+description: Implemented PD controller on a Quadrotor in 1D, 2D and 3D 
 ---
 
 # quadrotor-control-and-trajectory-generation
