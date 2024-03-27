@@ -2,7 +2,7 @@
 name: Control of a Cart Pole System 
 tools: [Python, Mathematical Modeling, PID, LQR]
 image: https://lynx1902.github.io/assets/cartpole.gif
-description: Simulated a planer multi-body dynamics of a jack in the box with external forces and impacts.
+description: Tested PID and LQR control laws on a cart pole system and developed an optimal control strategy
 ---
 
 
